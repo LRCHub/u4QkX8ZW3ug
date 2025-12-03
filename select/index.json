@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "lull ～そして僕らは～ （TVサイズ）",
+  "base_artist": "Ray",
+  "createdAt": "2025-12-03T17:09:26.724230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lull",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Lull_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lull",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Lull_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lull",
+      "artist": "Andrew Bird",
+      "has_synced": true,
+      "path": "select/03_Lull_Andrew_Bird.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "lull ~そして僕らは~",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/04_lull_~そして僕らは~_Ray.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lull",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/05_Lull_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "There's a Lull In My Life (Remastered)",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/06_There's_a_Lull_In_My_Life_(Remastered)_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hearts A Mess - Lull Mix",
+      "artist": "Gotye",
+      "has_synced": false,
+      "path": "select/07_Hearts_A_Mess_-_Lull_Mix_Gotye.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lull - Remastered",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/08_Lull_-_Remastered_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "lull ~Soshite Bokura wa~",
+      "artist": "Ray",
+      "has_synced": true,
+      "path": "select/09_lull_~Soshite_Bokura_wa~_Ray.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There's a Lull In My Life",
+      "artist": "Natalie Cole",
+      "has_synced": false,
+      "path": "select/10_There's_a_Lull_In_My_Life_Natalie_Cole.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There's A Lull In My Life",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/11_There's_A_Lull_In_My_Life_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lull ～そして僕らは～",
+      "artist": "Ray",
+      "has_synced": false,
+      "path": "select/pl_01_lull_~そして僕らは~_Ray.txt"
+    }
+  ]
+}
